@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="stitch_client_app_id">YOUR_APP_ID</string>
+    <string name="google_client_id">YOUR_CLIENT_ID</string>
+</resources>
